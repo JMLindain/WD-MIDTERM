@@ -1,5 +1,5 @@
 #wrapper{
-    background-image:url("Background1.jpg");
+    background-image:url("/assets/img/Background1.jpg");
     background-position: center;
     background-size: contain;
     height: 100vh;
