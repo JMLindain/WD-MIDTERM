@@ -1,0 +1,41 @@
+#wrapper{
+    background-image:url("Background1.jpg");
+    background-position: center;
+    background-size: contain;
+    height: 100vh;
+    color: whitesmoke;
+}
+
+
+.nav{
+    display: flex;
+    flex-direction: row-reverse ;
+    gap: 50px;
+    color: whitesmoke;
+    font-size: 10px;
+}
+
+.centertext{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    color: whitesmoke;
+    height: 60vh;
+}
+
+#purchase{
+    font-size: 20px;
+}
+
+#box2{
+    background-color: #EEEEEE;
+    height: 30vh;
+}
+
+#laptop{
+    padding: 10px;
+    height: 20px;
+    width: 20px;
+
+}
